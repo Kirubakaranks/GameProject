@@ -23,10 +23,10 @@ do
         done
 
     else
-        echo "Thanks for coming"
+        echo "Thanks for vising"
         break
     fi
-    read -p "Do you play again: " Option
+    read -p "Do you play again[yes/No]: " Option
     continue
 done
    
